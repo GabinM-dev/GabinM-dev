@@ -2,6 +2,8 @@
 
 Grade 11 IB DP Student | Founder of Aviation Club | Flight Sergeant @ Air Cadets | Passionate about exploring how AI and mechatronics can enhance aircraft performance and automation
 
+**Assumption College Catholic High School | 2023 – 2027**
+
 ⚡About Me
 
 I am a Grade 11 student passionate about coding, technology, and aviation. I enjoy building hands-on projects that combine software and hardware, and I seek opportunities to apply programming and problem-solving skills in tech and aerospace contexts.
